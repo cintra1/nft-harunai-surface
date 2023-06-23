@@ -7,4 +7,4 @@
 Projeto de uma coleção de NFTs que criei com arte digital e inteligência artificial.
 
 # Como acessar?
-Entre no link do repositório ou clique aqui: 
+Entre no link do repositório ou clique aqui: https://opensea.io/collection/harunai-surface
